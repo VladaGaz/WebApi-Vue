@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WubohSsNtKBVSzhJIJqPQic+NsQFHwaJiYWJUYTcshyKg8IQ+BnpQDS9fCrmz2UuJWnnTm854V9WcQiiGEL3BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\WebApi+Vue\\WebApi+Vue\\WebApi+Vue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.typescript.msbuild\\4.4.0-beta\\microsoft.typescript.msbuild.4.4.0-beta.nupkg.sha512"
+  ],
+  "logs": []
+}
